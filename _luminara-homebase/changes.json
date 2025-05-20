@@ -15470,5 +15470,19 @@
                 "new_value": "1.2.1"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-20T05:44:34.494844+00:00Z",
+        "changes": [
+            {
+                "team": "itrocket",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.itrocket.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.0.1",
+                "new_value": "3.0.2"
+            }
+        ]
     }
 ]
