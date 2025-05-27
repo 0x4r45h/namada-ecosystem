@@ -26400,5 +26400,820 @@
                 "new_value": "sync_nok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-27T17:22:32.324861+00:00Z",
+        "changes": [
+            {
+                "team": "Hadesguard",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.Hadesguard.service.masp.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.Hadesguard.service.masp.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Hadesguard.service.masp.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Hadesguard.service.indexer.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Hadesguard.service.indexer.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "3.0.2"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Hadesguard.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2176696"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Hadesguard.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Hadesguard.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Sproutstake",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.Sproutstake.service.rpc.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Sproutstake",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.Sproutstake.service.rpc.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "Sproutstake",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Sproutstake.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2176697"
+            },
+            {
+                "team": "Sproutstake",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Sproutstake.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Sproutstake",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.Sproutstake.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "101.0.0"
+            },
+            {
+                "team": "Sproutstake",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Sproutstake.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Sproutstake",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.Sproutstake.service.masp.version",
+                "type": "modified",
+                "old_value": "1.2.1",
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "Sproutstake",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Sproutstake.service.indexer.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "Sproutstake",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Sproutstake.service.indexer.version",
+                "type": "modified",
+                "old_value": "2.5.4",
+                "new_value": "n/a"
+            },
+            {
+                "team": "Sproutstake",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Sproutstake.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "Palamar",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.Palamar.service.rpc.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Palamar",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.service.rpc.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "Palamar",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Palamar.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2176700"
+            },
+            {
+                "team": "Palamar",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Palamar.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Palamar",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.Palamar.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "101.0.0"
+            },
+            {
+                "team": "Palamar",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Palamar.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Palamar",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.Palamar.service.masp.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "Palamar",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.service.masp.version",
+                "type": "modified",
+                "old_value": "1.2.1",
+                "new_value": "n/a"
+            },
+            {
+                "team": "Palamar",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Palamar.service.masp.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "StakeUp",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.StakeUp.service.rpc.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "StakeUp",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.StakeUp.service.rpc.version",
+                "type": "modified",
+                "old_value": "0.37.15",
+                "new_value": "n/a"
+            },
+            {
+                "team": "StakeUp",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.StakeUp.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "2176318",
+                "new_value": "0"
+            },
+            {
+                "team": "StakeUp",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.StakeUp.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "StakeUp",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.StakeUp.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "1.1.5",
+                "new_value": "n/a"
+            },
+            {
+                "team": "StakeUp",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.StakeUp.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "StakeUp",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.StakeUp.service.indexer.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "StakeUp",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.StakeUp.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.0.2",
+                "new_value": "n/a"
+            },
+            {
+                "team": "StakeUp",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.StakeUp.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.TuDudes.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "2176295",
+                "new_value": "2176695"
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.TuDudes.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "TuDudes",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.TuDudes.service.masp.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "TuDudes",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.service.masp.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "TuDudes",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.TuDudes.service.masp.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.TuDudes.service.indexer.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.service.indexer.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "3.0.2"
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.TuDudes.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2176695"
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.TuDudes.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.TuDudes.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "OriginStake",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.OriginStake.service.masp.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "OriginStake",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.OriginStake.service.masp.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "OriginStake",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.OriginStake.service.masp.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.OriginStake.service.indexer.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.OriginStake.service.indexer.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "3.0.2"
+            },
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.OriginStake.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2176714"
+            },
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.OriginStake.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.OriginStake.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "max-02",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.max-02.service.masp.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "max-02",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.max-02.service.masp.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "max-02",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.max-02.service.masp.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "max-02",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.max-02.service.indexer.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "max-02",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.max-02.service.indexer.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "3.0.2"
+            },
+            {
+                "team": "max-02",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.max-02.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2176720"
+            },
+            {
+                "team": "max-02",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.max-02.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "max-02",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.max-02.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Nodes.Guru.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "2175999",
+                "new_value": "2176711"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Nodes.Guru.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.LoserBoy.service.masp.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.LoserBoy.service.masp.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.LoserBoy.service.masp.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.LoserBoy.service.indexer.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.LoserBoy.service.indexer.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "3.0.2"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.LoserBoy.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2176719"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.LoserBoy.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.LoserBoy.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.MELLIFERA.service.masp.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.MELLIFERA.service.masp.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.MELLIFERA.service.masp.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "3.0.2"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2176699"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.masp.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.masp.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.masp.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.indexer.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.indexer.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "3.0.2"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2176708"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Citizen Web3.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2176279",
+                "new_value": "2176707"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Citizen Web3.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]
