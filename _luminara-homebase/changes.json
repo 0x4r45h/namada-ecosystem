@@ -30203,5 +30203,37 @@
                 "new_value": "2184956"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-28T12:52:46.796537+00:00Z",
+        "changes": [
+            {
+                "team": "CroutonDigital",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.CroutonDigital.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "CroutonDigital",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.CroutonDigital.interface.version",
+                "type": "modified",
+                "old_value": "1.20.0",
+                "new_value": "n/a"
+            },
+            {
+                "team": "CroutonDigital",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.CroutonDigital.interface.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            }
+        ]
     }
 ]
