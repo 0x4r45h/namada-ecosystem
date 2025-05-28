@@ -29046,5 +29046,55 @@
                 "new_value": true
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-28T02:02:34.185280+00:00Z",
+        "changes": [
+            {
+                "team": "EmberStake",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.EmberStake.interface.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.21.0"
+            },
+            {
+                "team": "EmberStake",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.EmberStake.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "EmberStake",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.EmberStake.interface.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Nodes.Guru.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "2029438",
+                "new_value": "2180655"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Nodes.Guru.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]
