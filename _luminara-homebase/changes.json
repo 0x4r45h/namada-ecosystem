@@ -42071,5 +42071,19 @@
                 "new_value": "sync_nok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-09T14:26:29.519513+00:00Z",
+        "changes": [
+            {
+                "team": "MELLIFERA",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.MELLIFERA.interface.version",
+                "type": "modified",
+                "old_value": "1.21.0",
+                "new_value": "1.24.0"
+            }
+        ]
     }
 ]
