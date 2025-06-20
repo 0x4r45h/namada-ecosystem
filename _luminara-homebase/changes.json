@@ -61777,5 +61777,73 @@
                 "new_value": "sync_ok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-20T08:33:18.390516+00:00Z",
+        "changes": [
+            {
+                "team": "Heliax",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Heliax.interface.version",
+                "type": "modified",
+                "old_value": "1.26.0",
+                "new_value": "1.27.0"
+            },
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.interface.version",
+                "type": "modified",
+                "old_value": "1.26.0",
+                "new_value": "1.27.0"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Nodes.Guru.interface.version",
+                "type": "modified",
+                "old_value": "1.26.0",
+                "new_value": "1.27.0"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.shield-crypto.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.shield-crypto.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "2472108",
+                "new_value": "2472522"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.shield-crypto.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.shield-crypto.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "2472260",
+                "new_value": "2472554"
+            }
+        ]
     }
 ]
