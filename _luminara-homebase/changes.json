@@ -75071,5 +75071,19 @@
                 "new_value": "101.1.1"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-08T02:06:44.697905+00:00Z",
+        "changes": [
+            {
+                "team": "deNodes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.deNodes.interface.version",
+                "type": "modified",
+                "old_value": "1.28.3",
+                "new_value": "1.29.0"
+            }
+        ]
     }
 ]
