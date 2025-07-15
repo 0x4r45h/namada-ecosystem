@@ -80837,5 +80837,82 @@
                 "new_value": "3.3.2"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-15T20:49:24.029711+00:00Z",
+        "changes": [
+            {
+                "team": "max-02",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.max-02.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "max-02",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.max-02.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2789097",
+                "new_value": "2789127"
+            },
+            {
+                "team": "EmberStake",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.EmberStake.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "EmberStake",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.EmberStake.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2789083",
+                "new_value": "2789127"
+            },
+            {
+                "team": "MekongLabs",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.MekongLabs.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "MekongLabs",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.MekongLabs.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2789097",
+                "new_value": "2789127"
+            },
+            {
+                "team": "Heliax",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Heliax.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "Heliax",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Heliax.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2789073",
+                "new_value": "2789127"
+            }
+        ]
     }
 ]
