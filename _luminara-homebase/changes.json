@@ -90954,5 +90954,64 @@
                 "new_value": "sync_lag"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-27T13:35:18.660777+00:00Z",
+        "changes": [
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.L0vd.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.L0vd.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2933746",
+                "new_value": "2934345"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Citizen Web3.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Citizen Web3.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2933746",
+                "new_value": "2934334"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Citizen Web3.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Citizen Web3.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "2933746",
+                "new_value": "2934334"
+            }
+        ]
     }
 ]
