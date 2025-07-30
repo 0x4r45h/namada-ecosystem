@@ -92060,5 +92060,19 @@
                 "new_value": "1.31.4"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-30T15:30:08.293546+00:00Z",
+        "changes": [
+            {
+                "team": "StakeUp",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.StakeUp.interface.version",
+                "type": "modified",
+                "old_value": "1.31.2",
+                "new_value": "1.31.4"
+            }
+        ]
     }
 ]
