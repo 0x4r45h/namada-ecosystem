@@ -1,7 +1,7 @@
 {
-    "script_start_time": "2026-07-11T21:12:52.472759+00:00Z",
-    "script_end_time": "2026-07-11T21:25:14.257192+00:00Z",
-    "reference_latest_block_height": "7259405",
+    "script_start_time": "2026-07-11T22:11:58.984456+00:00Z",
+    "script_end_time": "2026-07-11T22:24:28.998257+00:00Z",
+    "reference_latest_block_height": "7259906",
     "required_versions": {
         "interface": "1.20.0",
         "indexer": "2.5.3",
@@ -45,7 +45,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7259390",
+                            "latest_block_height": "7259890",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -63,39 +63,10 @@
                     "team": "5ElementsNodes",
                     "discord": "h3ll0_friend",
                     "url": "https://namadillo.5elementsnodes.com",
-                    "status": "up",
-                    "version": "1.33.0",
-                    "is_up_to_date": true,
-                    "settings": [
-                        {
-                            "service": "indexer",
-                            "url": "https://index2-namada.5elementsnodes.com",
-                            "status": "up",
-                            "version": "4.1.3",
-                            "is_up_to_date": true,
-                            "latest_block_height": "7259392",
-                            "sync_state": "sync_ok"
-                        },
-                        {
-                            "service": "masp",
-                            "url": "https://masp2-namada.5elementsnodes.com",
-                            "status": "up",
-                            "version": "1.4.7",
-                            "is_up_to_date": true,
-                            "latest_block_height": "7253227",
-                            "sync_state": "sync_nok"
-                        },
-                        {
-                            "service": "rpc",
-                            "url": "https://rpc-namada.5elementsnodes.com",
-                            "status": "up",
-                            "version": "0.37.16",
-                            "is_up_to_date": true,
-                            "namada_version": "201.0.7",
-                            "latest_block_height": "7259392",
-                            "sync_state": "sync_ok"
-                        }
-                    ]
+                    "status": "down",
+                    "version": "n/a",
+                    "is_up_to_date": false,
+                    "settings": []
                 },
                 {
                     "team": "Hadesguard",
@@ -165,7 +136,7 @@
                             "status": "up",
                             "version": "4.1.0",
                             "is_up_to_date": true,
-                            "latest_block_height": "7259405",
+                            "latest_block_height": "7259905",
                             "sync_state": "sync_ok"
                         },
                         {
@@ -184,7 +155,7 @@
                             "version": "0.37.15",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7259405",
+                            "latest_block_height": "7259905",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -222,7 +193,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7259405",
+                            "latest_block_height": "7259906",
                             "sync_state": "sync_ok"
                         }
                     ]
